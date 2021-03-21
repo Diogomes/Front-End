@@ -27,7 +27,10 @@ browser-sync start --server --directory --files "*"
 
  - e para finalizar: git commit -m "comentario do que foi"
 
- - git status diz o que está pronto para o push: git push
+ - git status diz o que está pronto para o push: git push.
+
+ - se essas coisas não funcionarem principalmente o push sugiro arrumar o SSH
+ procurar como conectar no github com a chave SSH. ou tenta sincronizar melhor o teu IDE para iso. 
 
 
 
@@ -38,3 +41,8 @@ https://clearlydecoded.com/
 http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro
 
 https://learn.shayhowe.com/html-css/
+
+ótima ferramenta de manter o código sempre igual apenas copiando e colando
+jsfiddle.net/
+
+www.codepen.io
