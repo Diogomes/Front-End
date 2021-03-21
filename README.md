@@ -27,7 +27,7 @@ browser-sync start --server --directory --files "*"
 
  - e para finalizar: git commit -m "comentario do que foi"
 
- -git status diz o que está pronto para o push
+ - git status diz o que está pronto para o push: git push
 
 
 
